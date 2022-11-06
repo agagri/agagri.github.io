@@ -29,8 +29,8 @@ twitter_username: agagri
 github_username:  agagri
 
 # Build settings
-#theme: minima
-remote_theme: poole/lanyon
+theme: minima
+#remote_theme: poole/lanyon
 plugins:
   - jekyll-feed
   - jekyll-admin

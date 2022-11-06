@@ -21,7 +21,7 @@
 title: Agatino Grillo web pages
 #email: agatino.grillo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Notizie, guide e progetti su IA, NLP, Machine Learning ed altro
+  Notizie, guide e progetti su IA, NLP, Machine Learning, Quantum computing ed altro
 # baseurl così funzia
 # baseurl: /myblog ### così funzia quando le pagine sono nel repository myblog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

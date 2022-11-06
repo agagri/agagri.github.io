@@ -29,7 +29,8 @@ twitter_username: agagri
 github_username:  agagri
 
 # Build settings
-theme: minima
+#theme: minima
+theme: modernist
 plugins:
   - jekyll-feed
   - jekyll-admin

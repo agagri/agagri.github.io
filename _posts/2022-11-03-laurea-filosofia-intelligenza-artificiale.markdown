@@ -17,5 +17,5 @@ Il sapere filosofico, nella sua dimensione teorica e storica, esamina diversi pr
 
 # Approfondimenti
 
-{% include youtubePlayer.html id=page.EdvtBkRaqrI %}
+{% include youtubePlayer.html id=EdvtBkRaqrI %}
 

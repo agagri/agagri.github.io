@@ -2,6 +2,7 @@
 layout: post
 title:  "IBM: Quantum Information and Computation – corso su YouTube"
 date:   2022-11-05 11:00:20 +0200
+youtubeId: 0Av89fZenSY
 categories: Quantum
 ---
 [“**Quantum Information and Computation**”](https://www.youtube.com/watch?v=0Av89fZenSY)
@@ -13,5 +14,4 @@ Il corso non richiede conoscenze preliminari sull'informatica quantistica o sull
 
 ## Link
 
-Il video di presentazione della serie [Quantum Information and Computation](https://www.youtube.com/watch?v=0Av89fZenSY)
-[![Video corso Quantum Computing](https://img.youtube.com/vi/0Av89fZenSY/0.jpg)](https://www.youtube.com/watch?v=0Av89fZenSY "Video corso Quantum Computing")
+{% include youtubePlayer.html id=page.youtubeId %}

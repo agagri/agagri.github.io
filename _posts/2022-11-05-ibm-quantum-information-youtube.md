@@ -11,6 +11,7 @@ L'obiettivo di Watrous è creare un corso di quantistica di livello universitari
 Il corso non richiede conoscenze preliminari sull'informatica quantistica o sull'informazione quantistica ma richiede tuttavia un background in algebra lineare e i numeri complessi.
 “Understanding Quantum Information and Computation” dice Watrous “si rivolge a tutti coloro che desiderano conoscere il quantum computing da un punto di vista informatico”.
 
-# Approfondimenti
+## Link
 
-- [![Video corso Quantum Computing](https://img.youtube.com/vi/0Av89fZenSY/0.jpg)](https://www.youtube.com/watch?v=0Av89fZenSY "Video corso Quantum Computing")
+Il video di presentazione della serie [Quantum Information and Computation](https://www.youtube.com/watch?v=0Av89fZenSY)
+[![Video corso Quantum Computing](https://img.youtube.com/vi/0Av89fZenSY/0.jpg)](https://www.youtube.com/watch?v=0Av89fZenSY "Video corso Quantum Computing")

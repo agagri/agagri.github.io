@@ -17,8 +17,5 @@ Il sapere filosofico, nella sua dimensione teorica e storica, esamina diversi pr
 
 # Approfondimenti
 
+{% include youtubePlayer.html id=page.EdvtBkRaqrI %}
 
-[Video Youtube di presentazione del corso](https://www.youtube.com/watch?v=EdvtBkRaqrI)
-
-
-[![Video laurea](https://img.youtube.com/vi/EdvtBkRaqrI/0.jpg)](https://www.youtube.com/watch?v=EdvtBkRaqrI "Video laurea")

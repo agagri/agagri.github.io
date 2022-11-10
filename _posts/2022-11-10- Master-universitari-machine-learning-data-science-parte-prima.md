@@ -12,5 +12,4 @@ Per chi desidera specializzarsi dopo la laurea in aree quali l’Intelligenza Ar
 |Università | Master | livello| costo | on line | scandenza domanda | Open day |
 |--|--||--|--||--|--||--|--|
 |La Sapienza Roma | Metodi statistici per la società della conoscenza | II| 6.000 euro | si | 16 gennaio 2023 | 22 novembre 2022 |
-|--|--||--|--||--|--||--|--|
 |Università | Master | livello| costo | on line | scandenza domanda | Open day |

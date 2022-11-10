@@ -2,7 +2,7 @@
 layout: post
 title:  "Master universitari in Machine Learning e Data Science (parte prima)"
 date:   2022-11-05 19:00:20 +0200
-categories: Filosofia "Machine Learning"
+categories: Filosofia Machine-Learning
 ---
 
 Un Master universitario è un titolo post laurea di perfezionamento scientifico e di alta formazione successivo al conseguimento della laurea triennale o della laurea magistrale della durata di almeno un anno e che prevede l'attribuzione di almeno 60 crediti formativi universitari.
@@ -20,7 +20,12 @@ Di seguito una tabella riassuntiva di alcuni master universitari e il dettaglio 
 |     Firenze             |     Master in Data Science   and Statistical Learning (MD2S)                         |     II         |     4.500 euro    |     si         |     15 novembre 2022     |     27 ottobre 2022     |
 
 
-## Big data. Metodi statistici per la società della conoscenza, La Sapienza Roma
+[Metodi statistici per la società della conoscenza, La Sapienza Roma](#Uniroma1) 
+Customer Experience, Statistics, Machine Learning e Artificial Intelligence, Tor Vergata Roma
+Master in Data Analytics (MDA), Roma Tre
+Master in Data Science and Statistical Learning (MD2S), Firenze
+
+## <a name="Uniroma1"></a> Big data. Metodi statistici per la società della conoscenza, La Sapienza Roma
 
  [Sito web del master](https://www.uniroma1.it/it/offerta-formativa/master/2023/big-data-metodi-statistici-la-societa-della-conoscenza)
 

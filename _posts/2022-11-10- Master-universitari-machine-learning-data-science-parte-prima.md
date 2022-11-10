@@ -19,11 +19,13 @@ Di seguito una tabella riassuntiva di alcuni master universitari e il dettaglio 
 |     Roma Tre            |     Master in Data Analytics   (MDA)                                                 |     I          |     2.500 euro    |     Si         |     9 gennaio 2023       |     No                  |
 |     Firenze             |     Master in Data Science   and Statistical Learning (MD2S)                         |     II         |     4.500 euro    |     si         |     15 novembre 2022     |     27 ottobre 2022     |
 
+## Indice
 
-[Metodi statistici per la società della conoscenza, La Sapienza Roma](#Uniroma1) 
-[Customer Experience, Statistics, Machine Learning e Artificial Intelligence, Tor Vergata Roma](#Uniroma2) 
-[Master in Data Analytics (MDA), Roma Tre](#Uniroma3) 
-[Master in Data Science and Statistical Learning (MD2S), Firenze](#Unifi) 
+- [Metodi statistici per la società della conoscenza, La Sapienza Roma](#Uniroma1) 
+- [Customer Experience, Statistics, Machine Learning e Artificial Intelligence, Tor Vergata Roma](#Uniroma2) 
+- [Master in Data Analytics (MDA), Roma Tre](#Uniroma3) 
+- [Master in Data Science and Statistical Learning (MD2S), Firenze](#Unifi) 
+
 
 ## <a name="Uniroma1"></a> Big data. Metodi statistici per la società della conoscenza, La Sapienza Roma
 

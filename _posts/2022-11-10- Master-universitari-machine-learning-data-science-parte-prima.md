@@ -2,7 +2,7 @@
 layout: post
 title:  "Master universitari in Machine Learning e Data Science (parte prima)"
 date:   2022-11-05 19:00:20 +0200
-categories: Filosofia, Machine Learning
+categories: Filosofia Machine-Learning
 ---
 
 Un Master universitario è un titolo post laurea di perfezionamento scientifico e di alta formazione successivo al conseguimento della laurea triennale o della laurea magistrale della durata di almeno un anno e che prevede l'attribuzione di almeno 60 crediti formativi universitari.

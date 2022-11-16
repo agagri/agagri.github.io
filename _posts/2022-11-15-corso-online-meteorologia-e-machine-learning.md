@@ -6,7 +6,7 @@ categories: Mooc Machine-Learning
 ---
 # Corso online meteorologia e machine learning
 
-![mooc](assets/images/221115-mooc-ml.jpg)
+![mooc](https://agagri.github.io/assets/images/221115-mooc-ml.jpg)
 
 - Fonte: sito [ifabfoundation](https://www.ifabfoundation.org/it/2022/11/09/le-tecnologie-di-machine-learning-per-plasmare-il-futuro-della-metereologia-ifab-e-ecmwf-lanciano-mooc-massive-open-online-course/) 
 

@@ -11,10 +11,14 @@ categories: Mooc Machine-Learning
 
 Il corso, in lingua inglese e gratuito, il cui titolo completo è "**Massive Open Online Course (MOOC) on Machine Learning in Weather and Climate**" è promosso in partnership da **[ECMWF](https://www.ecmwf.int/)** - European Centre for Medium-Range Weather Forecasts  e **[IFAB](https://www.ifabfoundation.org/it/)**  la fondazione promossa dalla Regione Emilia-Romagna come «ponte» fra le risorse del Big Data Technopole e il mondo delle aziende.  
 **Obiettivo** del corso è formare una comunità di ricercatori e professionisti specializzata sulle opportunità che il Machine Learning offre nel campo delle previsioni del meteo e delle previsioni climatiche.
+
 La data di inizio è il 9 gennaio 2023; il corso dura dieci settimane con circa tre o quattro ore di studio per ciascuna settimana; in totale sono previste 36 ore di formazione.
+
 Iscrizione, gratuita, a questo [link](https://lms.ecmwf.int/pages/index.html). 
+
 Per la partecipazione è richiesto solamente un livello di conoscenza di base sui temi del clima e del meteo, delle statistiche e dell’informatica. 
-Al termine del corso, i partecipanti potranno inoltre decidere di prendere parte alla ECMWF’s Summer of Weather Code (ESoWC) con il proprio progetto di coding; maggiori informazioni a questo [link](ECMWF%20Summer%20of%20Weather%20Code%20-%20Driving%20Earth%20Science%20innovation).
+
+Al termine del corso, i partecipanti potranno inoltre decidere di prendere parte alla ECMWF’s Summer of Weather Code (ESoWC) con il proprio progetto di coding; maggiori informazioni a questo [link](https://esowc.ecmwf.int/).
 
 ## Il programma
 
@@ -50,5 +54,5 @@ Ogni livello è inoltre strutturato in moduli ciascuno dedicato ad un tema speci
 | Software/Hardware Infrastructure | 10/04/2023 |
 | Closure Webinar | 19/04/2023 |
 
-Il programma completo è disponibile qui in [pdf](https://lms.ecmwf.int/pages/ressources/pdf/MOOC_MLWC_Training_Programme.pdf)  e [qu](https://lms.ecmwf.int/pages/faq.php)i le FAQ  (in inglese)
+Il programma completo è disponibile qui in [pdf](https://lms.ecmwf.int/pages/ressources/pdf/MOOC_MLWC_Training_Programme.pdf)  e [qui](https://lms.ecmwf.int/pages/faq.php) le FAQ  (in inglese)
 

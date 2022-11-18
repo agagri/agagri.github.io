@@ -6,7 +6,10 @@ categories: Università Machine-Learning
 ---
 # Master universitari in Machine Learning e Data Science (parte prima)
 
-Un un Master universitario è un titolo post laurea di perfezionamento scientifico e di alta formazione successivo al conseguimento della laurea triennale o della laurea magistrale della durata di almeno un anno e che prevede l'attribuzione di almeno 60 crediti formativi universitari.
+![mooc](https://agagri.github.io/assets/images/artificial-i.jpg)
+immagine tratta da https://commons.wikimedia.org/wiki/File:Artificial_intelligence.jpg
+
+Un Master universitario è un titolo post laurea di perfezionamento scientifico e di alta formazione successivo al conseguimento della laurea triennale o della laurea magistrale della durata di almeno un anno e che prevede l'attribuzione di almeno 60 crediti formativi universitari.
 I Master universitari si differenziano tra primo e secondo livello: si accede ai master di 1° livello a seguito di una laurea triennale, ai master di 2° livello a seguito di una laurea magistrale.
 
 Per chi desidera specializzarsi dopo la laurea in aree quali l’Intelligenza Artificiale, il Machine Learning, la Data Science le università italiane offrono diverse opportunità la maggior parte delle quali anche in modalità online.

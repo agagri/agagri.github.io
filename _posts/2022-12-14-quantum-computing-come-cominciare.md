@@ -6,7 +6,7 @@ categories: quantum
 ---
 # Quantum Computing, come cominciare
 
-![QC](https://agagri.github.io/assets/images/221214-quantum-computing.jpg)Immagine tratta da [Wikimedia](https://commons.wikimedia.org/wiki/Category:Quantum_circuit#/media/File:Circuit-quantum_counting.png)
+![QC](https://agagri.github.io/assets/images/221214-quantum-computing.jpg)"Circuit for performing approximate quantum counting on a quantum computer", immagine tratta da [Wikimedia](https://commons.wikimedia.org/wiki/Category:Quantum_circuit#/media/File:Circuit-quantum_counting.png)
 
 Il Quantum Computing (QC) consiste nell’utilizzare un calcolatore quantistico per affrontare problemi troppo complessi per i computer classici.
 Come recita [Wikipedia](https://it.wikipedia.org/wiki/Computer_quantistico):
@@ -42,8 +42,8 @@ Nel corso del convegno dal titolo "Quantum Technologies: la velocità corre sui 
  - Lezione 1: [Introduzione al Quantum
    Computing](https://www.redhotcyber.com/post/introduzione-al-quantum-computing-lezione-1/)
  -  Lezione 2: [Il
-   qubit](https://www.redhotcyber.com/post/il-qubit-lezione-2/)  Lezione
- -  3: [I circuiti
+   qubit](https://www.redhotcyber.com/post/il-qubit-lezione-2/)  
+ -  Lezione 3: [I circuiti
    quantistici](https://www.redhotcyber.com/post/i-circuiti-quantistici-terza-lezione/)
  -  Lezione 4: [Gli algoritmi
    quantistici](https://www.redhotcyber.com/post/gli-algoritmi-quantistici-lezione-4/)
@@ -95,7 +95,7 @@ Il corso di Informatica Quantistica dell’AA 2013-2014 della professoressa **[A
 
 ### Uniroma3 
 
-Il corso di Quantum Computing della [terza università di Roma](http://www.dia.uniroma3.it/~teorica/index-quantum.html)  del prof **[Giuseppe Di Battista](https://compunet.ing.uniroma3.it/#!/people/gdb)**  mette a disposizione il seguente materiale didattico, sotto forma di slide:
+Il  **[corso di Quantum Computing](http://www.dia.uniroma3.it/~teorica/index-quantum.html)** della terza università di Roma   del prof **[Giuseppe Di Battista](https://compunet.ing.uniroma3.it/#!/people/gdb)**  mette a disposizione il seguente materiale didattico, sotto forma di slide:
 
 - Introduzione al corso
 - Un qubit

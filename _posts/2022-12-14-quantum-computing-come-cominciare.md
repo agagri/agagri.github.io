@@ -70,7 +70,7 @@ Su "Mondo Digitale N. 48 Dicembre 2013" è disponibile in formato pdf l’artico
 
 Sul sito [Qbit](https://wordpress.qubit.it)  sono presenti due interessanti articoli divulgativi di **[Lorenzo Maccone](https://fisica.unipv.it/personale/Persona.php?ID=207)**   - docente all'università di Pavia - sul QC:
 
-- "**[Cos’e’ il computer quantistico?](https://wordpress.qubit.it/wp-content/uploads/2017/05/gattoSR.pdf)**"  (4 pagine)
+- "**[Il gatto di Schrödinger](https://wordpress.qubit.it/wp-content/uploads/2017/05/gattoSR.pdf)**"  (4 pagine)
 - "**[Computer quantistici: status e prospettive?](https://wordpress.qubit.it/wp-content/uploads/2017/05/qcomp.pdf)**"  (4 pagine)
 
 ## Insegnare il Quantum Computing nelle scuole secondarie

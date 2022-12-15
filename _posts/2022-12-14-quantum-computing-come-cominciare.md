@@ -8,6 +8,8 @@ categories: quantum
 
 ![QC](https://agagri.github.io/assets/images/221214-quantum-computing.jpg)"Circuit for performing approximate quantum counting on a quantum computer", immagine tratta da [Wikimedia](https://commons.wikimedia.org/wiki/Category:Quantum_circuit#/media/File:Circuit-quantum_counting.png)
 
+- Pubblicato anche su **[Medium](https://medium.com/@agatino.grillo/quantum-computing-come-cominciare-c77b581e5076)**
+- 
 Il Quantum Computing (QC) consiste nell’utilizzare un calcolatore quantistico per affrontare problemi troppo complessi per i computer classici.
 Come recita [Wikipedia](https://it.wikipedia.org/wiki/Computer_quantistico):
 

@@ -24,7 +24,7 @@ Tutte le grandi aziende high tech (Ibm, Google, Amazon) sono impegnate nella cor
 
 ## Breve (video) introduzione al quantum computing
 
-[L’osservatorio "Quantum Computing & Communication"](https://www.osservatori.net/it/ricerche/osservatori-attivi/quantum-computing-communication)  della School of Management del Politecnico di Milano ha realizzato un breve ma completo **[video in italiano](https://www.osservatori.net/it/prodotti/formato/video/quantum-computing-cose-come-funziona-video)** che spiega bene cos’è il QC e quali sono i suoi limiti oggi.
+[L’osservatorio "Quantum Computing & Communication"](https://www.osservatori.net/it/ricerche/osservatori-attivi/quantum-computing-communication)  della School of Management del Politecnico di Milano ha realizzato un breve ma completo **[video in italiano](https://www.osservatori.net/it/prodotti/formato/video/quantum-computing-cose-come-funziona-video)** che spiega bene cos’è il QC e quali sono i suoi limiti oggi (**attenzione:** per vedere il video occorre registrarsi gratuitamente al sito).
 Il video dura circa 6 minuti, è stato realizzato per un convegno che si è tenuto il 29 novembre 2022  e descrive i concetti chiave per il funzionamento di un computer quantistico, evidenziando le principali differenze con l’informatica classica. 
 Vengono illustrate le potenzialità della computazione quantistica, ma anche le sfide da dover superare per la realizzazione di un quantum computer su grande scala.
 
@@ -36,6 +36,7 @@ Il video è tratto dalla trasmissione della Rai "[Codice, La vita è digitale](h
 ## Overview sulle tecnologie quantistiche
 
 Nel corso del convegno dal titolo "Quantum Technologies: la velocità corre sui qubit" - che si è tenuto il 14/01/2022 sempre a cura dell’[Osservatorio "Quantum Computing & Communication"](https://www.osservatori.net/it/ricerche/osservatori-attivi/quantum-computing-communication)  - il professor **[Paolo Cremonesi](https://paolocremonesi.faculty.polimi.it/)**  ha svolto un intervento dal titolo "Overview sulle tecnologie quantistiche" disponibile nel video in questa **[pagina](https://www.osservatori.net/it/eventi/on-demand/convegni/convegno-risultati-ricerca-osservatorio-quantum-computing-communication)**  (dal minuto 43:23 fino al minuto 57) di cui sono anche disponibili le slide (dalla numero 24 alla 32) all’interno di questo **[zip](https://www.osservatori.net/umbraco/api/assets/redirect?niceUrl=convegno-risultati-ricerca-osservatorio-quantum-computing-communication&propertyName=Asset)** .
+(**attenzione:** per vedere il video e scaricare lo zip occorre registrarsi gratuitamente al sito).
 
 ## Quantum computing, dalla A alla Z
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il primo modulo del mooc "Machine Learning in Weather & Climate""
+title:  "Il primo modulo del mooc Machine Learning in Weather & Climate"
 date:   2023-01-22 11:00:20 +0200
 categories: Mooc Machine-Learning
 ---

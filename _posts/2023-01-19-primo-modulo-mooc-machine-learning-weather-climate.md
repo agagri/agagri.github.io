@@ -2,9 +2,10 @@
 layout: post
 title:  "Il primo modulo del mooc "Machine Learning in Weather & Climate""
 date:   2023-01-22 11:00:20 +0200
-categories: "machine learning"
+categories: Mooc Machine-Learning
 ---
 # Il primo modulo del mooc "Machine Learning in Weather & Climate"
+![mooc](https://agagri.github.io/assets/images/221115-mooc-ml.jpg)
 
 Il corso online di "meteorologia e machine learning" (qui una **[presentazione](https://agagri.github.io/mooc/machine-learning/2022/11/15/corso-online-meteorologia-e-machine-learning.html)** ) si pone l’obiettivo di formare una comunità di ricercatori e professionisti specializzata sulle opportunità che il Machine Learning offre nel campo delle previsioni del meteo.
 Il corso ha avuto inizio il **9 gennaio 2023** con la pubblicazione dei materiali relativi al **[primo modulo](https://lms.ecmwf.int/course/view.php?id=3&section=1)**  intitolato "Introduction to ML in Weather & Climate"; in totale il corso dura dieci settimane con circa tre o quattro ore di studio per ciascuna settimana; in totale sono previste 36 ore di formazione.
